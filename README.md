@@ -1,1 +1,1 @@
-# Repositorio de desafios da DIO
+# Repositorio de projetos/desafios da DIO
